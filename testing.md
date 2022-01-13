@@ -20,10 +20,10 @@ You can ***even combine them!!!!***
 
 >These are the classes I'm taking:
 >>Sadly they're all online 
-* CSE 12
-* CSE 15L
-* Math 20C
-* MMW 12
+>* **CSE** 12
+>* **CSE** 15L
+>* __Math__ 20C
+>* __*MMW 12*__
 
 ---
 `This is some inline code`
