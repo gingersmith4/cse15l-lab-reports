@@ -27,6 +27,7 @@ You can ***even combine them!!!!***
 
 ---
 `This is some inline code`
+
 My favorite colors:
 1. Pink
 2. Blue
@@ -35,6 +36,3 @@ My favorite colors:
   2. Plum
 6. Yellow
 4. Green
-
-* Numbers take some extra work
-* 2022\
