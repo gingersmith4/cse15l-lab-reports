@@ -27,3 +27,11 @@ You can ***even combine them!!!!***
 
 ---
 `This is some inline code`
+My favorite colors:
+1. Pink
+2. Blue
+3. Purple
+  1. Lavendar
+  2. Plum
+6. Yellow
+4. Green
