@@ -8,3 +8,5 @@ classes I'm taking are
 *CSE 15L
 *Math 20C
 *MMW 12
+---
+`This is some inline code`
