@@ -1,5 +1,3 @@
-[Lab Report 1](lab-report-1-week-2.html)
-
 [Lab Report 1](https://gingersmith4.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
 
 [Formatting practice from lab 2](testing.html)
