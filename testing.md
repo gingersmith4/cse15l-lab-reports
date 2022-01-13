@@ -12,7 +12,7 @@ I'm trying out **different** ways to format text. There are lots of different co
 To make a line break  
 I can use two spaces at the end of the line.
 
-There are __lots of ways__ to make text**bold**.
+There are __lots of ways__ to make text look **amaz**ing.
 
 *Writing in italics*
 
