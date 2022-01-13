@@ -4,7 +4,15 @@
 - Go to the VS Code website using [this link](https://code.visualstudio.com)
 - Follow any instructions to set it up on your computer 
 
-This is where I'll put my lab report for the first lab!
+### Remotely Connecting
+
+### Trying Some Commands 
+
+### Moving Files with scp
+
+### Setting Up an SSH Key
+
+### Optimize Remote Running
 
 ![Screenshot of my website](/exampleScreenShot.png)
 
