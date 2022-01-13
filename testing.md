@@ -16,8 +16,9 @@ There are __lots of ways__ to make text look **amaz**ing.
 
 *Writing in italics* also has _lots_ of options. e*art*h
 
+You can ***even combine them!!!!***
 
-classes I'm taking are
+>These are the classes I'm taking:
 * CSE 12
 * CSE 15L
 * Math 20C
