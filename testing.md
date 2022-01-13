@@ -7,12 +7,14 @@
 This is another way I can make a heading
 ============
 
-*Writing in italics*
-
 I'm trying out **different** ways to format text. There are lots of different cool things I can do with markdown.
 
 To make a line break  
 I can use two spaces at the end of the line.
+
+There are __lots of ways__ to make text**bold**.
+
+*Writing in italics*
 
 
 classes I'm taking are
