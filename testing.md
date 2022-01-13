@@ -1,7 +1,17 @@
-This is my second file
+# This is my second file
+
+## I can make headings
+
+### Of different sizes
+
+This is another way I can make a heading
+============
+
 *Writing in italics*
 
 I'm trying out **different** ways to format text
+
+
 
 classes I'm taking are
 * CSE 12
