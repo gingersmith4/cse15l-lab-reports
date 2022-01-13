@@ -9,7 +9,7 @@ This is another way I can make a heading
 
 *Writing in italics*
 
-I'm trying out **different** ways to format text
+I'm trying out **different** ways to format text. There are lots of different cool things I can do with markdown.
 
 
 
