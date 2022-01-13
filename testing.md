@@ -14,7 +14,7 @@ I can use two spaces at the end of the line.
 
 There are __lots of ways__ to make text look **amaz**ing.
 
-*Writing in italics*
+*Writing in italics* also has _lots_ of options. e*art*h
 
 
 classes I'm taking are
