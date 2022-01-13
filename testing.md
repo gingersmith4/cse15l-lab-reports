@@ -36,5 +36,5 @@ My favorite colors:
 6. Yellow
 4. Green
 
-*Numbers take some extra work
-*2022\
+* Numbers take some extra work
+* 2022\
