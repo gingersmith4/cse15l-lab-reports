@@ -19,6 +19,7 @@ There are __lots of ways__ to make text look **amaz**ing.
 You can ***even combine them!!!!***
 
 >These are the classes I'm taking:
+>>Sadly they're all online 
 * CSE 12
 * CSE 15L
 * Math 20C
