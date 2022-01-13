@@ -5,4 +5,4 @@
 [Formatting practice from lab 2](testing.html)
 
 What would you do if success was guaranteed?
-![Screenshot of my website](/exampleScreenShot.png)
+
