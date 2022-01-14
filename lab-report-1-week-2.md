@@ -43,6 +43,16 @@
 - Now log back in to ieng6 and use `ls` to check if the file is there, you can also run it with `javac` and `java`! See if there's any difference in what is printed out compared to your computer.
 
 ### Setting Up an SSH Key
+- You can use ssh keys as a quicker way to log into the server, it's a little bit like using your fingerprint to unlock your computer but with a picture stored on your computer (the client) to unlock the server.
+- We'll use the program `ssh keygen` which creates a public key and a private key, the public key goes on the server and the private key goes on the client (your computer) and those together allow you to login without using your password!
+- Type the following and hit enter at enter passphrase, except the file will be different since your computer has a different name. You'll see a picture type thing (made up of symbols) printed out.
+`$ ssh-keygen
+Generating public/private rsa key pair.
+Enter file in which to save the key (/Users/gingersmith/.ssh/id_rsa): /Users/gingersmith/.ssh/id_rsa`
+- This made two new files on your computer, the public and private key, now we'll move the **public** key to the server. Login with `ssh`, then type `mkdir .ssh` once you're on the server and then logout. Now (back on the client) type: (replacing the location and username with yours)
+`$ scp /Users/gingersmith/.ssh/id_rsa.pub cs15lwi22afe@ieng6.ucsd.edu:~/.ssh/authorized_keys`
+
+![key](/key.png)
 
 ### Optimize Remote Running
 
