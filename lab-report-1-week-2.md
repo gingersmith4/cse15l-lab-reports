@@ -59,7 +59,8 @@ Enter file in which to save the key (/Users/gingersmith/.ssh/id_rsa): /Users/gin
 - Here are some things you can try to make it more convenient to edit a file (like WhereAmI.java) on your computer and copy and run it on the remote server:
     - Use the up arrow to reuse a command you typed earlier in the terminal
     - Use semicolons to run multiple commands on the same line
+![optimize](/optimize.png)
 
+Congratulations! You made it to the end of the tutorial!
 
 [Back to home page](index.html)
-``
