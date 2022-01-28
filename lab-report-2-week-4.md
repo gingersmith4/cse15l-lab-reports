@@ -43,14 +43,16 @@ Here the issue was that links without parentheses weren't being printed. Dependi
 ### Change 3
 
 Code change:
-![code change](change2edits.png)
+![code change](change3edits.png)
 
 Test file:
 
-[link for test file](add the link)
-![file](change2file.png)
+[link for test file](https://github.com/gingersmith4/markdown-parse/blob/main/test-four.md)
+![file](change3file.png)
 
 Symptom of failure inducing output:
-![error message](change2terminal.png)
+![error message](change3terminal.png)
 
-Write 2-3 sentences describing the relationship between the bug, the symptom, and the failure-inducing input.
+In this case the symptom was very clear from the failure-inducing input, there were quotes around the link in the test file. Then it was simple to fix the bug by checking if the link started with and ended with quotes and if so shifting the index over.
+
+
