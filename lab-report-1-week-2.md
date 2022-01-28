@@ -15,13 +15,13 @@
 
 ### Trying Some Commands 
 - Now we'll try out some commands. Try running them both on the client (your computer) and the server (ieng6). To log out of the remote server type "logout" in the terminal or Ctrl-D
-- cd ~
-- cd
-- ls -lat
-- ls -a
-- ls <directory> where <directory> is /home/linux/ieng6/cs15lwi22/cs15lwi22abc, where the abc is one of the other group members’ username
-- cp /home/linux/ieng6/cs15lwi22/public/hello.txt ~/
-- cat /home/linux/ieng6/cs15lwi22/public/hello.txt
+- `cd ~`
+- `cd`
+- `ls -lat`
+- `ls -a`
+- `ls <directory> where <directory> is /home/linux/ieng6/cs15lwi22/cs15lwi22abc`, where the abc is one of the other group members’ username
+- `cp /home/linux/ieng6/cs15lwi22/public/hello.txt ~/`
+- `cat /home/linux/ieng6/cs15lwi22/public/hello.txt`
 ![commands](/commands.png)
 
 ### Moving Files with scp
