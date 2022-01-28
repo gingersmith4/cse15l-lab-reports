@@ -28,31 +28,29 @@ Here the bug was an assumption that the program could always subtract one from t
 ### Change 2
 
 Code change:
-![code change](error1.png)
+![code change](change2edits.png)
 
 Test file:
 
-[link for test file](add the link)
-![file](change1file.png)
+[link for test file](second-test.md)
+![file](change2file.png)
 
 Symptom of failure inducing output:
-![error message](change1errorMessage.png)
+![error message](change2terminal.png)
 
-Write 2-3 sentences describing the relationship between the bug, the symptom, and the failure-inducing input.
+Here the issue was that links without parentheses weren't being printed. Depending on the instructions for the program this could be a bug or we would want the "failure" because the link was not formatted correctly.
 
 ### Change 3
 
 Code change:
-![code change](error1.png)
+![code change](change2edits.png)
 
 Test file:
 
 [link for test file](add the link)
-![file](change1file.png)
+![file](change2file.png)
 
 Symptom of failure inducing output:
-![error message](change1errorMessage.png)
+![error message](change2terminal.png)
 
 Write 2-3 sentences describing the relationship between the bug, the symptom, and the failure-inducing input.
-
-[Back to home page](index.html)
