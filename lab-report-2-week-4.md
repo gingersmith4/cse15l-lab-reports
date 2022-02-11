@@ -7,7 +7,7 @@ Code change:
 
 Test file:
 
-[link for test file](https://github.com/gingersmith4/markdown-parse/blob/main/test-three.md)
+[link for test file](https://github.com/gingersmith4/markdown-parse/edit/main/test-file3.md)
 ![file](change1file.png)
 
 Symptom of failure inducing output:
@@ -22,7 +22,7 @@ Code change:
 
 Test file:
 
-[link for test file](second-test.md)
+[link for test file](https://github.com/gingersmith4/markdown-parse/blob/main/test-file2.md)
 ![file](change2file.png)
 
 Symptom of failure inducing output:
@@ -37,7 +37,7 @@ Code change:
 
 Test file:
 
-[link for test file](https://github.com/gingersmith4/markdown-parse/blob/main/test-four.md)
+[link for test file](https://github.com/gingersmith4/markdown-parse/blob/main/test-file4.md)
 ![file](change3file.png)
 
 Symptom of failure inducing output:
