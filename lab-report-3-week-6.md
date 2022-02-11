@@ -1,8 +1,14 @@
-# Lab Report 1 Week 2
+# Lab Report 3 Week 6
 
-### Installing VS Code
-- Go to the VS Code website using [this link](https://code.visualstudio.com)
-- Follow any instructions to set it up on your computer 
-![vscode](/vscode.png)
+### Copying whole directories with `scp-r`
+- Copying markdown-parse directory into ieng6 account
+
+![copying directory](/copyDirect1.png)
+![copying directory continued](/copyDirect2.png)
+
+- Logging into ieng6 and compiling and running tests
+![running tests](/runOnRemote.png)
+
+- Combining `scp, ;, ssh` to copy the whole directory and run the tests in one line.
 
 [Back to home page](index.html)
