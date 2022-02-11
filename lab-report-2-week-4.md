@@ -41,7 +41,7 @@ Test file:
 ![file](change3file.png)
 
 Symptom of failure inducing output:
-![error message](change3terminal.png)
+![error message](lab2error3errormessage.png)
 
 In this case the symptom was very clear from the failure-inducing input, there were quotes around the link in the test file. Then it was simple to fix the bug by checking if the link started with and ended with quotes and if so shifting the index over.
 
