@@ -1,20 +1,57 @@
 # Lab Report 4 Week 8
 
-## What we're doing
 
-# Example 1
+# Links
 
-![copying directory](/copyDirect1.png)
-![copying directory continued](/copyDirect2.png)
+My markdown parse repositry:
+[my md parse](link.html)
 
-# Example 2
+Reviewed markdown parse repository:
+[review md parse](/copyDirect2.png)
 
-![running tests](/runOnRemote.png)
+# Snippet 1
 
-# Example 3
+Test in mdparsetest.java:
+pass/no pass
 
-![combo](/combo1.png)
-![combo](/combo2.png)
-![combo](/combo3.png)
+![test](/test1.png)
+
+My implementation's output: 
+
+![test](/test1.png)
+
+Reviewed implementation's output: 
+
+![test](/test1.png)
+
+# Snippet 2
+
+Test in mdparsetest.java:
+pass/no pass
+
+![test](/test1.png)
+
+My implementation's output: 
+
+![test](/test1.png)
+
+Reviewed implementation's output: 
+
+![test](/test1.png)
+
+# Snippet 3
+
+Test in mdparsetest.java:
+pass/no pass
+
+![test](/test1.png)
+
+My implementation's output: 
+
+![test](/test1.png)
+
+Reviewed implementation's output: 
+
+![test](/test1.png)
 
 [Back to home page](index.html)
