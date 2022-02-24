@@ -4,6 +4,8 @@
 
 [Lab Report 3](https://gingersmith4.github.io/cse15l-lab-reports/lab-report-3-week-6.html)
 
+[Lab Report 4](https://gingersmith4.github.io/cse15l-lab-reports/lab-report-4-week-8.html)
+
 [Formatting practice from lab 2](testing.html)
 
 What would you do if success was guaranteed?
