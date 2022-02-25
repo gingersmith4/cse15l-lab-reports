@@ -4,10 +4,10 @@
 # Links
 
 My markdown parse repositry:
-[my md parse](link.html)
+[my md parse](https://github.com/gingersmith4/markdown-parse.git)
 
 Reviewed markdown parse repository:
-[review md parse](/copyDirect2.png)
+[review md parse](https://github.com/merrickqiu/markdown-parse.git)
 
 # Snippet 1
 
