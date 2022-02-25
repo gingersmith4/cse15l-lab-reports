@@ -12,7 +12,7 @@ Reviewed markdown parse repository:
 # Snippet 1
 
 Test in mdparsetest.java:
-pass/no pass
+pass/**no pass**
 
 ![test](/snippet1test.png)
 
@@ -27,13 +27,13 @@ Reviewed implementation's output:
 # Snippet 2
 
 Test in mdparsetest.java:
-pass/no pass
+pass/**no pass**
 
-![test](/test1.png)
+![test](/snippet2test.png)
 
 My implementation's output: 
 
-![test](/test1.png)
+![test](/snippet2myresult.png)
 
 Reviewed implementation's output: 
 
@@ -44,11 +44,11 @@ Reviewed implementation's output:
 Test in mdparsetest.java:
 pass/no pass
 
-![test](/test1.png)
+![test](/snippet3test.png)
 
 My implementation's output: 
 
-![test](/test1.png)
+![test](/snippet3myresult.png)
 
 Reviewed implementation's output: 
 
