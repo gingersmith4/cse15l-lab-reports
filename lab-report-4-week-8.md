@@ -42,7 +42,7 @@ Reviewed implementation's output:
 # Snippet 3
 
 Test in mdparsetest.java:
-pass/no pass
+pass/**no pass**
 
 ![test](/snippet3test.png)
 
