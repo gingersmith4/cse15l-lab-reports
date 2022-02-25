@@ -22,7 +22,7 @@ My implementation's output:
 
 Reviewed implementation's output: 
 
-![test](/test1.png)
+![test](/snippet1reviewresult.png)
 
 # Snippet 2
 
@@ -37,7 +37,7 @@ My implementation's output:
 
 Reviewed implementation's output: 
 
-![test](/test1.png)
+![test](/snippet2reviewresult.png)
 
 # Snippet 3
 
@@ -52,62 +52,21 @@ My implementation's output:
 
 Reviewed implementation's output: 
 
-![test](/test1.png)
+![test](/snippet3reviewresult.png)
 
 # Questions
 Answer the following questions with 2-3 sentences each:
 
 1. Do you think there is a small (<10 lines) code change that will make your program work for snippet 1 and all related cases that use inline code with backticks? If yes, describe the code change. If not, describe why it would be a more involved change.
 
+Yes, I think we should check if there are backticks anywhere in the line. This could be similar to the implementation to make sure images don't count as links with !, if there is a backtick we disregard anything until the next backtick.
+
 2. Do you think there is a small (<10 lines) code change that will make your program work for snippet 2 and all related cases that nest parentheses, brackets, and escaped brackets? If yes, describe the code change. If not, describe why it would be a more involved change.
+
+No I think it would be more complicated since we currently have code to deal with one set of parentheses and brackets but this would have to deal with an unknown number of them. We would have to store information about each and they could be in any order and be a lot of them.
 
 3. Do you think there is a small (<10 lines) code change that will make your program work for snippet 3 and all related cases that have newlines in brackets and parentheses? If yes, describe the code change. If not, describe why it would be a more involved change.
 
+Yes, I think we could remove any line breaks that are inside of parenthese or brackets where there is an open and close. This way we would be able to get the expected output.
+
 [Back to home page](index.html)
-
-
-
-## Snippet 1
-
-`[a link`](url.com)
-
-[another link](`google.com)`
-
-[`cod[e`](google.com)
-
-[`code]`](ucsd.edu)
-
-## Snippet 2
-
-[a [nested link](a.com)](b.com)
-
-[a nested parenthesized url](a.com(()))
-
-[some escaped \[ brackets \]](example.com)
-
-## Snippet 3
-
-[this title text is really long and takes up more than 
-one line
-
-and has some line breaks](
-    https://www.twitter.com
-)
-
-[this title text is really long and takes up more than 
-one line](
-    https://ucsd-cse15l-w22.github.io/
-)
-
-
-[this link doesn't have a closing parenthesis](github.com
-
-And there's still some more text after that.
-
-[this link doesn't have a closing parenthesis for a while](https://cse.ucsd.edu/
-
-
-
-)
-
-And then there's more text
