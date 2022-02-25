@@ -14,11 +14,11 @@ Reviewed markdown parse repository:
 Test in mdparsetest.java:
 pass/no pass
 
-![test](/test1.png)
+![test](/snippet1test.png)
 
 My implementation's output: 
 
-![test](/test1.png)
+![test](/snippet1myresult.png)
 
 Reviewed implementation's output: 
 
