@@ -41,5 +41,18 @@ and I would put a similar statement around this code:
 
 ![fix1](/fix1.png)
 
+# second
+The difference is with test 577, this is what's in the test file:
+```
+!(foo)[train.jpg]
+```
+My code added train.jpg which shouldn't be added since it's an image.
+```
+> [train.jpg]
+1069c1066
+< []
+```
+
+The solution to this is to add an if statement to check if there is a ! before the open parentheses. We have code to check for this, but it currently looks at if there's a ! before the open bracket, when it should check before the open parentheses. To fix this issue in the following code I would replace openBracket with openParentheses.
 
 [Back to home page](index.html)
