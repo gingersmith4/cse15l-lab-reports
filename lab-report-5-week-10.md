@@ -35,7 +35,7 @@ and I would put a similar statement around this code:
 
 ![fix1](/fix1.png)
 
-# Bug 2
+## Bug 2
 
 The difference is with test 577, this is what's in the test file:
 ```
