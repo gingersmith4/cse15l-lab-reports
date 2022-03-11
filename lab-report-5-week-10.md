@@ -39,6 +39,7 @@ The link contains a space and an asterisk, neither of which should be there, so 
 
 and I would put a similar statement around this code:
 
+![fix1](/fix1.png)
 
 
 [Back to home page](index.html)
