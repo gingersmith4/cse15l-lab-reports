@@ -3,6 +3,14 @@
 
 # Links
 
+How I chose my two tests from the 652 commonmark-spec tests where my implementation  had different answers than the implementation we provided for lab 9:
+
+I ran both with script.sh (below)
+![script file](/script.png)
+
+then I saved that to a file called results.txt and compared these results.txt to each other with ```diff```
+![running diff](/diffcommand.png)
+
 My markdown parse repositry:
 [my md parse](https://github.com/gingersmith4/markdown-parse.git)
 
